@@ -15,3 +15,5 @@
 1/17: 프로그래머스 [완주하지 못한 선수](https://school.programmers.co.kr/learn/courses/30/lessons/42576) 문제 풀이, [폰켓몬](https://school.programmers.co.kr/learn/courses/30/lessons/1845) 문제 풀이  
 1/18: 프로그래머스 [전화번호 목록](https://school.programmers.co.kr/learn/courses/30/lessons/42577) 문제 풀이  
 1/19: 프로그래머스 [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578) 문제 풀이, [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906) 문제 풀이  
+1/20: 프로그래머스 [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586) 문제 풀이  
+
