@@ -17,5 +17,6 @@
 1/19: 프로그래머스 [의상](https://school.programmers.co.kr/learn/courses/30/lessons/42578), [같은 숫자는 싫어](https://school.programmers.co.kr/learn/courses/30/lessons/12906)  
 1/20: 프로그래머스 [기능 개발](https://school.programmers.co.kr/learn/courses/30/lessons/42586), [올바른 괄호](https://school.programmers.co.kr/learn/courses/30/lessons/12909)  
 1/22: 프로그래머스 [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)  
-1/23: 프로그래머스 [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583)  
+1/23: 프로그래머스 [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583), [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  
+
 
