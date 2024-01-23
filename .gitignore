@@ -20,7 +20,7 @@ out/
 build.gradle.kts
 gradle*
 settings.gradle.kts
-src/main/java/org/example
+src/main/java/org/example/Test.java
 
 ### Eclipse ###
 .apt_generated
