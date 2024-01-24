@@ -19,6 +19,7 @@
 1/22: 프로그래머스 [프로세스](https://school.programmers.co.kr/learn/courses/30/lessons/42587)  
 1/23: 프로그래머스 [다리를 지나는 트럭](https://school.programmers.co.kr/learn/courses/30/lessons/42583), [주차 요금 계산](https://school.programmers.co.kr/learn/courses/30/lessons/92341)  
 1/24: 프로그래머스 [주식가격](https://school.programmers.co.kr/learn/courses/30/lessons/42584)  
+1/25: 프로그래머스 [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)  
 
 
 
