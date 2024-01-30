@@ -22,6 +22,7 @@
 1/25: 프로그래머스 [더 맵게](https://school.programmers.co.kr/learn/courses/30/lessons/42626)  
 1/26: 프로그래머스 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)  
 1/29: 프로그래머스 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  
+1/30: 프로그래머스 [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)  
 
 
 
