@@ -23,6 +23,7 @@
 1/26: 프로그래머스 [디스크 컨트롤러](https://school.programmers.co.kr/learn/courses/30/lessons/42627)  
 1/29: 프로그래머스 [이중우선순위큐](https://school.programmers.co.kr/learn/courses/30/lessons/42628)  
 1/30: 프로그래머스 [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)  
+1/31: 프로그래머스 [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  
 
 
 
