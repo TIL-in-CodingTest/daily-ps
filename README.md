@@ -25,6 +25,8 @@
 1/30: 프로그래머스 [피로도](https://school.programmers.co.kr/learn/courses/30/lessons/87946)  
 1/31: 프로그래머스 [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  
 2/1: 프로그래머스 [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)  
+2/2: 프로그래머스 [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  
+
 
 
 
