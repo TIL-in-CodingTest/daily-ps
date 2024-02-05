@@ -26,6 +26,8 @@
 1/31: 프로그래머스 [정수 삼각형](https://school.programmers.co.kr/learn/courses/30/lessons/43105)  
 2/1: 프로그래머스 [전력망을 둘로 나누기](https://school.programmers.co.kr/learn/courses/30/lessons/86971)  
 2/2: 프로그래머스 [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  
+2/5: 프로그래머스 [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  
+
 
 
 
