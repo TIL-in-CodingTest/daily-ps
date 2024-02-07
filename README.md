@@ -28,6 +28,7 @@
 2/2: 프로그래머스 [타겟 넘버](https://school.programmers.co.kr/learn/courses/30/lessons/43165)  
 2/5: 프로그래머스 [게임 맵 최단거리](https://school.programmers.co.kr/learn/courses/30/lessons/1844)  
 2/6: 프로그래머스 [체육복](https://school.programmers.co.kr/learn/courses/30/lessons/42862)  
+2/7: 프로그래머스 [가장 먼 노드](https://school.programmers.co.kr/learn/courses/30/lessons/49189)  
 
 
 
