@@ -34,3 +34,5 @@
 파이썬에 익숙해지기 위해 자바로 문제를 풀고 파이썬을 사용해 한번 더 풀겠다. 자바 프로젝트 안에 파이썬 파일이 있는 것이 어색하긴 하지만 굳이 레포지토리를 둘로 나눌 이유가 없다고 생각하여 해당 프로젝트에 python 폴더를 생성하고 그 안에 정리하겠다.  
 
 2/9: 프로그래머스 [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)  
+2/12: 프로그래머스 [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)  
+
