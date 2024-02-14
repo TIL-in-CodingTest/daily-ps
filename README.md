@@ -36,3 +36,4 @@
 2/9: 프로그래머스 [네트워크](https://school.programmers.co.kr/learn/courses/30/lessons/43162)  
 2/12: 프로그래머스 [단어 변환](https://school.programmers.co.kr/learn/courses/30/lessons/43163)  
 2/13: 프로그래머스 [여행경로](https://school.programmers.co.kr/learn/courses/30/lessons/43164)  
+2/14: 백준 [적록색약](https://www.acmicpc.net/problem/10026)  
