@@ -40,3 +40,4 @@
 2/15: 백준 [토마토](https://www.acmicpc.net/problem/7569)  
 2/16: 백준 [나이트의 이동](https://www.acmicpc.net/problem/7562)  
 2/17: 백준 [불](https://www.acmicpc.net/problem/5427)  
+2/18: 백준 [영역 구하기](https://www.acmicpc.net/problem/2583)  
