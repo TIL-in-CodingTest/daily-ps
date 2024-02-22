@@ -44,3 +44,4 @@
 2/19: 백준 [벽 부수고 이동하기](https://www.acmicpc.net/problem/2206)  
 2/20: 백준 [곱셈](https://www.acmicpc.net/problem/1629)  
 2/21: 백준 [하노이 탑 이동 순서](https://www.acmicpc.net/problem/11729)  
+2/22: 백준 [Z](https://www.acmicpc.net/problem/1074)  
